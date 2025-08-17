@@ -1,6 +1,6 @@
-# Evaluación Quarkus: Microservicio Exchange
+# Chapter Micros - Evaluación Final Quarkus: Microservicio Exchange
 
-Este proyecto es un microservicio **Java** utilizando **Quarkus** para construir una API de tipos de cambio.
+Este proyecto es un microservicio **Java** utilizando **Quarkus** para construir una API y exponer los tipos de cambio del día.
 
 ---
 
